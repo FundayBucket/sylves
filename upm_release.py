@@ -11,7 +11,7 @@ UPM_DIR="upm/"
 KEEP="KEEP"
 
 RUNTIME_ASMDEF="""{
-    "name": "Sylves",
+    "name": "Sylves_Funday_Fork",
     "references": [
     ],
     "includePlatforms": [],
