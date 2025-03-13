@@ -27,7 +27,7 @@ RUNTIME_ASMDEF="""{
 """
 
 PACKAGE_JSON="""{
-  "name": "com.boristhebrave.sylves",
+  "name": "com.FundayBucket.sylves",
   "version": "VERSION",
   "displayName": "Sylves",
   "description": "Sylves is a pure C# utility for working with 2d and 3d grids",
