@@ -1,6 +1,6 @@
 # Sylves
 
-<img src="docs/images/logo_cropped.png" width="400px"/>
+<img src="https://raw.githubusercontent.com/BorisTheBrave/sylves/main/docs/images/logo_cropped.png" width="400px"/>
 
 Sylves is a C# library for to help you handle working with 2d and 3d grids.
 
